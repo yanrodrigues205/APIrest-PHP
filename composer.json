@@ -1,5 +1,13 @@
 {
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    },
     "require": {
         "slim/slim": "3.0"
+    },
+    "scripts": {
+        
     }
 }
